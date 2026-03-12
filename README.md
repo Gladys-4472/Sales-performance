@@ -92,5 +92,14 @@ $2,804.16 per order
 Insight:
 Customers spend about $2.8K per purchase on average, indicating relatively high-value transactions.
 
+# Key Insights
+Certain regions generated higher revenue than others.
+Some product categories contributed more to profit.
+Monthly sales trends revealed seasonal patterns.
+
+# Author
+Gladys Okedare
+Aspiring Data Analyst
+
 
 
