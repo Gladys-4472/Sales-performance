@@ -13,7 +13,7 @@ Sales performances analysis using Microsoft excel ( pivot Tables, Dashboard, Bus
 This project analyzes a sales dateset to understand business performance, revenue trends and key drivers os sales using microsoft Ezcel.
 The goal is to transform raw sales data into meaningful insight using data cleaning pivot tables and interactive dashboard.
 # Tools used 
-- Microsoft Excel
+- Microsoft Excel (https://d.docs.live.net/CD0290DE7B7CBE1A/Sales%20performance.xlsx )
 - pivot Tables
 - Pivot Charts
 - Data cleaning
@@ -39,9 +39,11 @@ key performance indicators calculated
 ### Dashboard 
 An insightful dashboard was created to visualize the insight 
 it includes: Sales by region against previous years 
-Sales by category
-monthly sales Trend 
-profit Analysis 
+- Sales by category
+- monthly sales Trend 
+- profit Analysis 
+<img width="797" height="423" alt="dashboard" src="https://github.com/user-attachments/assets/73838246-cb34-4348-971b-d68ec2e670be" />
+
 ### Question Answered by the analysis
 #### 1️. What is the overall sales performance?
 <p>Total Sales Revenue: $841,248.68<br>
