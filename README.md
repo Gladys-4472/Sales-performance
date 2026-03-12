@@ -1,6 +1,6 @@
 # Sales-performance
 Sales performances analysis using Microsoft excel ( pivot Tables, Dashboard, Business) 
-# Question answered by the anlysis 
+# Question answered before anlyzing  
 - what is the overall sales performance
 - which region generate the most sales
 - which product categtories performs best
@@ -42,64 +42,71 @@ it includes: Sales by region against previous years
 Sales by category
 monthly sales Trend 
 profit Analysis 
-### Question Answered 
+### Question Answered by the analysis
 #### 1️. What is the overall sales performance?
-Total Sales Revenue: $841,248.68
-Total Profit: $719,728.78
-Total Quantity Sold: 1,623 units
- Insight: The business generated over $841K in revenue, indicating strong overall sales performance.
+<p>Total Sales Revenue: $841,248.68<br>
+Total Profit: $719,728.78<br>
+Total Quantity Sold: 1,623 units</p>
+- Insight: 
+The business generated over $841K in revenue, indicating strong overall sales performance.
+
 #### 2️. Which region generates the most sales?
 Sales by region:
-Region      Total Sales
-South        $269,325.77
-West         $206,192.84
-East         $183,466.90
-North        $182,263.17
-Insight:  
+<p>Region      Total Sales<br>
+South        $269,325.77<br>
+West         $206,192.84<br>
+East         $183,466.90<br>
+North        $182,263.17</p>
+- Insight:  
 South region performs best
 North and East need growth strategies
+
 #### 3️. Which product categories perform best?
 Sales by category:
-Category            Total Sales
-Accessories        $456,239.32
-Electronics        $385,009.36
-Insight:
+<p>Category            Total Sales<br>
+Accessories        $456,239.32<br>
+Electronics        $385,009.36</p>
+- Insight:
 Accessories generate the highest revenue, making them the most important category for the business.
+
 #### 4️. What are the monthly sales trends?
-Top performing months:
-Month        Sales
-April        $94,984.77
-October      $91,217.66
-November     $89,961.42
-September    $89,269.38
-March        $88,207.57
-Insight:
+<p>Top performing months:<br>
+Month        Sales<br>
+April      -    $94,984.77<br>
+October    -    $91,217.66<br>
+November   -   $89,961.42<br>
+September  -   $89,269.38<br>
+March      -   $88,207.57</p>
+- Insight:
 Sales peak around April and the last quarter of the year, showing possible seasonal demand.
+
 #### 5️. Which products drive the most profit?
 Top profit-generating products:
-<P>Product              Profit
-Headphones          $142,200.42
-Mouse               $127,419.32
-Monitor             $126,569.36
-Keyboard            $122,450.02
-Laptop              $107,907.08
-Insight:
+<P>Product     -          Profit<br>
+Headphones     -         $142,200.42<br>
+Mouse          -         $127,419.32<br>
+Monitor        -         $126,569.36<br>
+Keyboard       -         $122,450.02<br>
+Laptop          -        $107,907.08</p>
+- Insight:
 Headphones generate the highest profit, making them the most valuable product for the business.
+
 #### 6️. What is the average order value?
 Average order value:
 
-$2,804.16 per order
-Insight:
+<P> $2,804.16 per order
+
+ - Insight:
 Customers spend about $2.8K per purchase on average, indicating relatively high-value transactions.
 
 # Key Insights
-Certain regions generated higher revenue than others.
-Some product categories contributed more to profit.
-Monthly sales trends revealed seasonal patterns.
+<P>Certain regions generated higher revenue than others.<br>
+Some product categories contributed more to profit.<br>
+Monthly sales trends revealed seasonal patterns.</p>
 
 # Author
-Gladys Okedare
-Aspiring Data Analyst
+<P>Gladys Okedare<br>
+Aspiring Data Analyst</p>
 
 
 
